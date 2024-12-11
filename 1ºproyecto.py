@@ -1,5 +1,6 @@
 N = input("cual numero es el SCP: ")
 
+
 if (N == "096"):
     print("muy bien")
 
